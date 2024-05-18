@@ -1,6 +1,4 @@
 
-# Instructions for Labs for Week 03
-
 ## Lab: Linux CLI - Connecting, Logging In, Users, Groups
 
 Cleanup from prior runs (we will explain these command later):
